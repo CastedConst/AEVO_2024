@@ -21,7 +21,7 @@
 
 
 
-[fachwoerterliste](https://castedconst.github.io/AEVO_2024/fachwoerterliste.md) 
-[Fallbeispiele](https://castedconst.github.io/AEVO_2024/Fallbeispiele.md) 
-[fragenkatalog](https://castedconst.github.io/AEVO_2024/fragenkatalog.md) 
+[fachwoerterliste](fachwoerterliste.md) 
+[Fallbeispiele](Fallbeispiele.md) 
+[fragenkatalog](fragenkatalog.md) 
 
