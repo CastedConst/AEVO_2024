@@ -17,7 +17,9 @@
   * [01_prüfungstermine](Day4/01_prüfungstermine.md)
   * [02_AusschreibungenundBußgelder](Day4/02_AusschreibungenundBußgelder.md) 
   * [03_Ausbildungsvertrag](Day4/03_Ausbildungsvertrag.md) 
-
+* Tag 5
+  * [01_Adressatenanalyse](Day5/01_Adressatenanalyse.md) 
+  * [02_DateneckblattUndLernmethoden](Day5/02_DateneckblattUndLernmethoden.md) 
 
 
 
