@@ -23,6 +23,13 @@ Der Azubi ist in der Lage ihm neu zugewiesene Aufgaben selbstständig zu überpr
 
 Ent-Blocken von aufgaben
 
+Bei der 4-Stufen-Methode:
+"Oh, ich merke du hast jetzt einen Termin, den 4. Step machst du selbst"
+
+
+Ein "stellen sie sich bitte vor, dass hier mehr als 1 Azubi steht" ist nicht gültig
+
+
 
 1. DoR
    1. Story Points

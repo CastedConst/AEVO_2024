@@ -34,6 +34,9 @@ S.479 im Ordner
 
 Seitens des Ausbilders. Könnte aber auch umgedreht werden (der Azubi präsentiert)
 
+![Kurzvortrag](Images/Kurzvortrag.jpg)
+
+
 ### Ablauf
 maximal 15min
 
@@ -74,7 +77,7 @@ Autoritär
 
 ### Anwendungsgebiet
 
-Viele
+Vieles, hauptsächlich Kognitives
 
 ## Demonstration
 
@@ -85,6 +88,8 @@ Entweder:
 Oder:
 * Negativ (Wie es nicht sein soll)
 * Z.B. Gabelstapler fahrer Klaus
+
+![Demonstration](Images/Demonstration.jpg)
 
 ### Ablauf
 
@@ -123,6 +128,8 @@ Autoritär
 Viele
 
 ## 4-Stufen Methode
+
+![4Stufen](Images/4Stufen.jpg)
 
 ### Ablauf
 
@@ -219,6 +226,19 @@ Stufe | Stil
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 1 Projektmethode
 
 Im Ablauf die 6 Phasen
@@ -296,6 +316,3 @@ Hauptsächlich Laissez-Faire
 
 
 
-
-
-4 Stufen Methode
