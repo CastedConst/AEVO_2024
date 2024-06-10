@@ -6,7 +6,7 @@ Kolping - Hotel
 
 ## Prüfungs ablauf und Themen
 
-Eine Präsentation würde eine Ausbildungssituation beschreiben. Sie würde **nichts** fachliches beschreiben! Das einzige fachliche ist die benennung des Feinlernziels. Präsentation wird explizit nicht empfohlen.
+Eine Präsentation würde eine Ausbildungssituation beschreiben. Sie würde **nichts** fachliches beschreiben! Das einzige fachliche ist die benennung des Feinlernziels. Eine Präsentation wird explizit nicht empfohlen.
 
 Praktische Ausbildungssituation ("Unterweisung"):
 
@@ -22,5 +22,5 @@ Beispiele:
 * Orange filetieren
 * Messschieber
 
-In der Prüfung am besten einen ungelernten Azubi nehmen, damit es authenthisch wirkt. Das üben eher mit jemand anderem.
+In der Prüfung am besten einen ungelernten Azubi nehmen, damit es authenthisch wirkt. Das Üben eher mit jemand anderem.
 

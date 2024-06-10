@@ -80,7 +80,7 @@ Früher sind Menschen durch's raster gefallen. Heute durch Fachkräftemangel mus
 
 S.196
 
-~~Humaner Führungsstil~~
+* ~~Humaner Führungsstil~~
 * Autoritärer Führungsstil
   * Law and Order
   * Für fundamentale Werte, sicherheitsrelevantes, Datenschutz, Firmeninternas

@@ -3,6 +3,14 @@
 
 Beispiel: S.479 im Ordner
 
+Prüfung:
+* 10.07.
+  * 9:30 ich, 10:00 Dennis
+
+Generalprobe:
+* 24.06.
+
+
 **Groblernziel**:
 Strategien zum verantwortungsvollen Umgang mit
 digitalen Medien anwenden und im virtuellen Raum
@@ -15,6 +23,8 @@ Positiv formuliert: In der Erstellung
 
 "Ich habe mich für diese variante entschieden, weil der Azubi ein Verbaler lerntyp ist" (könnte in der "Zielgruppe" im Formular drin stehen)
 
+Drei Prüfer: Ein Lehrender, ein Arbeitnehmer, ein Arbeitgeber
+
 "ich habe in der Adressatenanalyse festgestellt..."
 
 "ich habe diesen führungsstil"
@@ -26,9 +36,42 @@ Ent-Blocken von aufgaben
 Bei der 4-Stufen-Methode:
 "Oh, ich merke du hast jetzt einen Termin, den 4. Step machst du selbst"
 
+SMARTe Ziele S. 238
+Beschreibung | Erklärung
+-------------|------------|
+Specific     | duh, Falte 20 Servietten
+Measurable | Lernerfolgskontrolle
+Activating | Methode (Gruppenarbeit, etc.). Erziehung zur Selbstständigkeit kern-kompetenz des dualen systems
+Realistic  | Was ist der Bildungsstand? Reifegrad des Azubi? "An welchem Bahnhof muss man ihn abholen?"
+Terminated | bis wann? Zeit Management. Erfahrungswerte
+
 
 Ein "stellen sie sich bitte vor, dass hier mehr als 1 Azubi steht" ist nicht gültig
 
+> Bei der Formulierung des Lernziels und des Prüfungsbogens sollte die entsprechende Taxonomie und der Lernzielbereich genau definiert werden.
+>
+> Das setting (lehrjahr) etc. muss passen
+>
+> "Mal schauen wie weit wir kommen" ist nicht motivierend. Ggf. Verantwortung in aussicht stellen ("Nach der unterweisung wirst du künftig...")
+
+In der umsetzung: Der impact muss klar sein!
+
+> KEY SENTENCE: Schreib das in dein Berichtsheft!
+
+
+Motivation des Azubi "du darfst jetzt"
+
+
+
+* Lob
+  * Ist immer **Spezifisch**
+    * Mir hat gut gefallen, wie du...
+    * Ich habe gesehen, dass..
+  * Authentisch
+  * Nicht inflationär
+  * nicht übertrieben.
+  * Konkret und ohne Phrasen (kein "Das hat ja schon ganz gut geklappt")
+* Bestätigunslaute sind kein Lob. Lob gibt es am Ende
 
 
 1. DoR

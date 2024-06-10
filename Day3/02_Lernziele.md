@@ -3,16 +3,15 @@
 ## Lernziel-Hierarchie
 
 * BBiG §10 -> Es muss einen Vertrag geben 
-  * BBiG §5 -> Es muss eine Verordnugn geben (der Paragraph heißt "Berufsbild" -> definiert die Richtlernziele)
+  * BBiG §5 -> Es muss eine Verordnung geben (der Paragraph heißt "Berufsbild" -> definiert die Richtlernziele)
     * VO -> Beinhaltet den _Ausbildungsrahmenplan_ das ist nicht der Rahmenlehrplan!!! (Beinhaltet Richtlernziele und Groblernziel)
       * Betrieblicher Ausbildungsplan (Beinhaltet Feinlernziel. Beispiel: Groblernziel = Heißgetränke herstellen, Feinlernziel = Cafe Crema mithilfe dem WMF Vollautomaten zuzubereiten)
 
-Richtlernziel, Groblernziel, Feinlernziel
+-> Richtlernziel, Groblernziel, Feinlernziel
 
 Feinlernziele können hinzugefügt werden wenn es betrieblich notwendig ist
 
 Das Feinlernziel sollte so genau sein, dass die Fachabteilung es sofort nutzen kann
-
 
 ## Lernzielbereiche
 
@@ -35,6 +34,7 @@ Das Feinlernziel sollte so genau sein, dass die Fachabteilung es sofort nutzen k
   - (Competencies)
 
 * Psychomotorischer Lern(ziel)bereich
+  * Psycho-___motorisch___-er. Motor. lateinisch `mōtor` "Beweger". Es geht hier **immer** um körperliche Bewegung.
   * Fähigkeiten
   * Neues
   * Verfestigen / Vertiefen
@@ -89,23 +89,29 @@ Wissen: Hessisches Meldegesetz etc.
 > "Mal schauen wie weit wir kommen" ist nicht motivierend. Ggf. Verantwortung in aussicht stellen ("Nach der unterweisung wirst du künftig...")
 
 SMARTe Ziele S. 238
-* Specific - duh
-* Measurable - Lernerfolgskontrolle
-* Activating - Methode (gruppenarbeit, etc.). Erziehung zur Selbstständigkeit kern-kompetenz des dualen systems
-* Realistic  - Was ist der Bildungsstand? Reifegrad des Azubi? An welchem Bahnhof muss man ihn abholen?
-* Terminated - bis wann? Zeit Management. Erfahrungswerte
+Beschreibung | Erklärung
+-------------|------------|
+Specific     | duh, Falte 20 Servietten
+Measurable | Lernerfolgskontrolle
+Activating | Methode (Gruppenarbeit, etc.). Erziehung zur Selbstständigkeit kern-kompetenz des dualen systems
+Realistic  | Was ist der Bildungsstand? Reifegrad des Azubi? "An welchem Bahnhof muss man ihn abholen?"
+Terminated | bis wann? Zeit Management. Erfahrungswerte
 
 ## Motivation
 
+### Motivationstypen
+
 Extrinsische / Intrinsische Motivation
-"Kann man aus dem aus dem hessischen ableiten"
+"Kann man aus dem aus dem hessischen ableiten" in-drinn-sisch
 
 intrinsisch: Neugierig, kommt er pünktlich? Bock aufs Thema?
 
 extrinsisch: Provision, übertragung von Verantwortung, früher gehen dürfen, lob, zwang
 
+### Feedback geben
+
 * Lob
-  * **Spezifisch**
+  * Ist immer **Spezifisch**
     * Mir hat gut gefallen, wie du...
     * Ich habe gesehen, dass..
   * Authentisch
@@ -114,29 +120,26 @@ extrinsisch: Provision, übertragung von Verantwortung, früher gehen dürfen, l
   * Konkret und ohne Phrasen (kein "Das hat ja schon ganz gut geklappt")
 * Bestätigunslaute sind kein Lob. Lob gibt es am Ende
 
-Kritisieren natürlich trotzdem. Sandwitch technik.
-  "Aber" negiert aussagen, lieber "beim nächsten mal"
+Kritisieren darf man natürlich trotzdem. "Aber" negiert leider aussagen, lieber "beim nächsten mal" benutzen. Ansonsten gibt es noch die Sandwich-Technik (erst was gutes, dann was schlechtes, dann was gutes).
 
-Fatale fehler seitens des Azubis?
-  Wenn Azubi alleine ist und was für 20k versemmelt, dann fehler beim Ausbilder dass der Azubi alleine ist. Lernprozess!
-  Autoritärer Führungsstil situationsbedingt berechtigt
-  Betreueungskosten! 25k pro Jahr kosten
-  Stapelfahrer Klaus anschauen
-    https://www.youtube.com/watch?v=dJdCJMyBi5I
+Was ist mit fatalen Fehler seitens des Azubis?
+* z.B. Wenn der Azubi alleine ist und was für 20.000€ versemmelt
+* Der Fehler liegt prinzipiell beim Ausbilder. Z.B. dass der Azubi alleine ist. Wir reden von einem Lernprozess!
+* Ein Autoritärer Führungsstil situationsbedingt berechtigt
+* Es gibt nennenswerte Betreueungskosten! Ein Azubi kann 25000€ pro Jahr kosten
+* Beispiel was alles schlecht laufen kann: 
+  * Stapelfahrer Klaus https://www.youtube.com/watch?v=dJdCJMyBi5I
 
+Hebel, falls der Azubi bei selbsständiger Arbeit hudelt:
+* Empathie mit dem Verwendern der Arbeit?
+* Was können wir das nächste mal besser machen?
+  * Azubi muss selber denken und driftet nicht ab
+  * Azubi muss sich selbst reflektieren
+  * "Keine Ahnung, weiß nicht, sags du's mir" ist eine standart weg sich zu drücken. Ggf. aber auch keine angenehme situation für den Azubi. Jemand der die Situation aushält kann etwas neues für den Azubi sein und positiven druck aufbauen.
+* "Ihr macht das nicht für mich", "Überlegen sie ob sie die ausbildung bei uns machen wollen".
+* "Jeder bekommt alles, aber wenn derjenige muss die Motivation entgegen bringen"
 
-Wenn der Azubi bei selbsständiger Arbeit hudelt:
-  Empathie mit dem Verwendern der Arbeit?
-  Was können wir das nächste mal selber machen?
-    Azubi muss selber denken und driftet nicht ab
-    Azubi muss sich selbst reflektieren
-  "Keine Ahnung, weiß nicht, sags du's mir" eine standart weg sich zu drücken. Ggf. keine angenehme situation. Die Situation aushalten kann neues für den Azubi sein und positiv druck aufbauen.
-
-  "Ihr macht das nicht für mich", "Überlegen sie ob sie die ausbildung bei uns machen wollen".
-
-  Jeder bekommt alles, aber wenn derjenige muss die Motivation entgegen bringen.
-
-## Beispiel
+## Beispiele Feinlernzielformulierung
 
 Erstelle ein Feinlernziel für das `Richtlernziel` "Sicherheit und Gesundheitsschutz bei der Arbeit"
 
@@ -174,10 +177,6 @@ Szenario: Kleiner 5-Mann Betrieb mit einem Büro, kein Ersthelfer und ohne Betri
 - [ ] Die Fluchtwege für den Brandschutz
 - [ ] Den Evakuierungsprozess im Fall eines Feuers
 
-"Und ist der Zirkus noch so klein, einer muss der August sein"
-
-- Der Auszubildende beherscht "Fachgerechtes" verhalten an kritischen geräten
-
 ## Taxonomischer step 2: Nach der Unterweisung ist der Azubi **selbstständig in der Lage**...
 
 - [X] ein Unfallprotokoll ordnungsgemäß auszufüllen <- Das ist ein 
@@ -203,19 +202,15 @@ Szenario: Kleiner 5-Mann Betrieb mit einem Büro, kein Ersthelfer und ohne Betri
 
 "Verbandsbuch" - Entnahme aus dem Erste Hilfe kasten
 
-Recap: Es muss nichts aus dem alltäglichen Geschäft sein
+Der Auszubildende beherscht **"Fachgerechtes"** verhalten an kritischen geräten
 
+In Summe: Es muss nichts aus dem alltäglichen Geschäft sein
 
-in der umsetzung: Der impact muss klar sein!
-
+In der umsetzung: Der impact muss klar sein!
 
 > KEY SENTENCE: Schreib das in dein Berichtsheft!
-
 
 Motivation des Azubi "du darfst jetzt"
 
 
 
-
-
-"4-Stufen Methode"

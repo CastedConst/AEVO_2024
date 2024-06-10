@@ -1,6 +1,6 @@
 # Gruppenarbeit
 
-## Gruppe 1
+## Gruppe 1 (Ausschreibung erstellen)
 
 Ausschreibung
 
@@ -26,17 +26,16 @@ M/W/D
 
 `AGG §7, §1`
 
-ZPO - Zivilprozessordnung widerspricht DSGVO.
-Ablehnungsgrund muss genannt werden können
-Daten müssen aber nach dem Prozess gelöscht werden
-Nur namen und Ablehnungsgrund sollte erfasst bleiben, das ist das minimalste
+Im Falle einer Kündigung ist in Sachen Datenschutz der widerspruch zwischen ZPO (Zivilprozessordnung) und DSGVO zu beachten:
+* Ablehnungsgrund _muss_ genannt werden können, aber die Daten müssen aber nach abschluss des "Prozess" (Arbeitsverhältnis) gelöscht werden.
+* Die Antwort ist eine einfache Liste, welche nur Namen und Ablenungsgrund erfasst. So wird beiden Gesetzen bestmöglich rechnung getragen
 
-Hauptschulabschluss _oder vergleichbares_
+Vorsicht bei der Formulierung "Realschulabschluss". Das ist eine Einschränkung auf Deutschland (und ggf. sogar ein bestimmtes Bundesland). Die korrekten Formulierungen sind:
+* Hauptschulabschluss _oder vergleichbares_
+* Hauptschulabschluss _wünschenswert_
 
-Hauptschulabschluss _wünschenswert_
 
-
-## Gruppe 2
+## Gruppe 2: Auswahlverfahren definieren
 
 ### Aufgabenstellung
 
@@ -64,11 +63,7 @@ Beruf: Hauswirtschaft
   * Daraus resultierend zustimmung/ablehnung in Absprache mit dem Azubi. Eindruck des Auzubi abholen
 6. Einladen der letzen 12 zu einem Bewerbungsgespräch
 
-
-
-## Gruppe 3
-
-Einladungsvorbereitung
+## Gruppe 3: Einladungsvorbereitung
 
 Inhaltlich
 * Durchlesen der Unterlagen
@@ -87,9 +82,7 @@ Organisatorsich
 * Azubis können den Raum vorbereiten
 * Azubis auf einen Austausch mit dem Bewerber vorbereiten
 
-## Gruppe 4
-
-Rechtssicheren Ablauf des Bewerbungsgespräch
+## Gruppe 4: Rechtssicherer Ablauf des Bewerbungsgespräch
 
 1. begrüßung
 2. Persönliches Umfeld des Bewerbers
@@ -109,31 +102,28 @@ Unzulässig:
 * Sexuelle Identität
 * Schwangerschaft
 
+Anmerkung: Es besteht die Möglichkeit, dass es der Betriebsablauf und die Religionsausübung eines bewerbers in Konflikt stehen. Die einzige Art das in einem Bewerbungsgespräch einigermaßen anzufragen wäre "Müssen wir bei deinem Einsatz auf der Arbeit irgendwas beachten" 
 
-Die Rolle des Betriebsrats
-* Prüfen ob das fair und       BetrVG §93
-* §94 Personalfragebogen (?)
-* §95 Auswahlrichtlinien 
-* §99 Vor jeder Einstellung zu unterichten. Zustimmung einholen
-  * Betriebsrat kann verweigern 
+## Die Rolle des Betriebsrats
 
+* Der BR prüft das Auswahlverfahren `BetrVG §95`. Er kann eine interne Ausschreibung verlangen: `BetrVG §93`
+* `BetrVG §94` bestimmt, dass er Personalfragebögen mitbestimmen kann
+* Der Betriebsrat ist Vor jeder Einstellung zu unterichten `BetrVG §99`. Verweigert der Betriebsrat die Einstellung, so muss eine Ersetztung beim Arbeitsgericht beantragt werden.
 
-Was machen mit zu vielen kompetenten (7 anstatt 5 einstellen). Gründe alle einzustellen
-* Immage "Für die allgemeinheit"
-* Gegen den Demographischen Wandel. Vorbeugen, bunkern von Fachkräften
-* Vielfalt der kompetenten Ideen
-* Für die nachfolgende Azubis motivation sich anzustrengen wenn alle übernommen wurden
-* Flexibilität, Personalausfall
+## Gründe für ein Einstellen von mehr Azubis als geplant
+
+* Immage "Ausbilden für die allgemeinheit"
+* Gegen den Demographischen Wandel vorbeugen. Fachkräften "reservieren"
+* Mehr junge Leute liefern mehr potentiell innovative Ideen.
+* Für die nachfolgende Azubis ist es eine motivation sich anzustrengen, falls alle vorhergehenden übernommen wurden
+* Flexibilität bei Personalausfall
+
+## Gemischtes:
 
 Die Ausschreibung bestimmt das Gespräch: In der "Du-Form" ergibt ein Du-Gespräch
 
+Es gibt "Druckkündigungen" -> wenn die Kollegen sagen "Entweder geht der oder wir". (Anmerkung TS: Vermutlich keine Rechtsnorm, sondern ein Muster vor dem Arbeitsgericht)
 
-"Druckkündigung" -> "Entweder der geht oder wir"
+Prinzipiell müssen keine Absagen versendet werden. Kommt aber natürlich nicht gut. Generell wollen wir den Bewerbern ein gutes gefühl geben, da sie multiplikatoren sind (Geschwister etc.)
 
-
-
-Es müssen keine Absagen versendet werden (kommt aber natürlich nicht gut)
-Gutes gefühl geben
-
-Kein Grund mit geben! Dann AGG konform
-Standartformulierung aus dem Internet
+Bei Kündigungn sollte kein Grund mitgegeben werden! Dann ist sie auf jeden Fall AGG konform. Es gibt Standartformulierungen aus dem Internet.

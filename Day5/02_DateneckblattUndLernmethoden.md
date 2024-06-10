@@ -3,14 +3,13 @@
 S.479 im Ordner
 
 * Name, Vorname, etc.
-* Ausbildungssituation wird <praktisch durchgeführt>
+* Ausbildungssituation wird **praktisch durchgeführt**
 
 * Thema: 1:1 das Feinlernziel oder zusammengefasst
 * Ausbildungsberuf: ...
 * Zielgruppe:
-  * 1 Auszubildender
-  * 1 Ausbildungsjahr
-  * 5 Monat
+  * ein Auszubildender
+  * erstes Ausbildungsjahr, fünte Monat
   * Mittlerer Bildungsabschluss
   * 17 Jahre alt
   * Engagiert, neugierig
@@ -25,8 +24,7 @@ S.479 im Ordner
     * Nachteil
     * Sozialformendes Lernen
     * Lernbereiche
-    * Führungsstile
-  * 
+    * Führungsstile(?)
 
 # Lernmethoden
 
