@@ -66,7 +66,7 @@ Beruf: Hauswirtschaft
 
 
 
-## 3
+## Gruppe 3
 
 Einladungsvorbereitung
 
@@ -87,7 +87,7 @@ Organisatorsich
 * Azubis können den Raum vorbereiten
 * Azubis auf einen Austausch mit dem Bewerber vorbereiten
 
-## 4
+## Gruppe 4
 
 Rechtssicheren Ablauf des Bewerbungsgespräch
 

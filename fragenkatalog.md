@@ -66,3 +66,25 @@
 > Digitalisierung?
 
 > Warum wurde überhaupt betreut?
+
+* Mit Abitur: -1 Jahr
+* Realschule: -0,5 Jahre
+* Vor-Ausbildung (Umzug o.ä.) kann auch ohne IHK genehmigt werden (entsprechend Anteilig). Es muss aber in den Prüfungsrythmus passen (also halbjährlich abrunden)
+* Umschulungen: -1 Jahr (Leider eine Kostensparmaßnahme die in der praxis weniger Sinn ergibt)
+
+
+"Ich habe mich für diese variante entschieden, weil der Azubi ein Verbaler lerntyp ist"
+
+> Welchen Führungsstil haben sie jetzt angewandt?
+
+> Was bedeutet Laissez-Faire
+
+> Was ist der Unterschied zwischen Lernzielkontrolle und Lernzielsicherunge
+
+> Wie sieht eine Projektarbeit aus?
+
+> Warum haben sie diese Lernmethode gewählt?
+
+
+> "Was ist der Unterschied zwischen anlernen und ausbilden"
+> Antwort: Beim ausbilden weiß der Azubi warum er etwas macht.

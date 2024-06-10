@@ -79,7 +79,7 @@ Hier könnten auch Zusatzqualifikationen hinzugefügt werden falls jemand ein Ü
 
 Auf der anderen Seite gibt es auch Lernbeeinträchtigungen (medizinisch), Teilzeit, Mutterschutz, Krankheit, etc. Die Berufsschulen sind aber leider nicht gut auf diese flexibilität aufgestellt.
 
-Verkürzungen können wie folgt zum Vertragsabschluss angegeben werden und müssen von der IHK genehmigt werden.
+Verkürzungen können wie folgt zum Vertragsabschluss angegeben werden und müssen von der IHK genehmigt werden. `BBiG §8, §21`
 
 * Mit Abitur: -1 Jahr
 * Realschule: -0,5 Jahre
