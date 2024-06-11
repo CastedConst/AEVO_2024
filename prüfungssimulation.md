@@ -58,6 +58,24 @@ In der umsetzung: Der impact muss klar sein!
 
 > KEY SENTENCE: Schreib das in dein Berichtsheft!
 
+Aktivierung ist immer gut
+Deligieren ist immer gut
+Standartfrage: "Warum muss ich das selber ausarbeiten?"
+
+ggf. kann man mal eine komplett bullshit-methode mit prüfung machen, um die Wertschätzung der Methoden seitens des Azubi zu steigern.
+
+"Mach mal", "ich mal mal ne präsentation", zeitaufwendi und fördert kein eigenständig sein.
+
+* "Hast du noch Fragen" ist eine geschlossene frage (Nein - als standartantwort), 
+  * "welche Fragen hast du noch?"
+  * "Was darf ich dir noch beantworten?"
+  * "Es war so komplex, was kann ich dir nochmal erklären?"
+  * Man kann in dem Moment sich direkt korrigieren 
+
+Haben sie kontrollfragen gestellt?
+
+
+
 
 Motivation des Azubi "du darfst jetzt"
 

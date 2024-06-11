@@ -28,6 +28,16 @@ S.479 im Ordner
 
 # Lernmethoden
 
+## Überblick
+
+* Kurzvorträge / Präsentation
+* Demonstration
+* 4-Stufen Methode
+* Diskussion
+* Brainstorming
+* Fragend-Entwickelndes Lehr-Lern-Gespräch
+
+
 ## Kurzvorträge / Präsentation
 
 Seitens des Ausbilders. Könnte aber auch umgedreht werden (der Azubi präsentiert)
@@ -137,6 +147,8 @@ Viele
 * Vormachen
 * Nachmachen und vom Azubi erklären lassen
 * Azubi übt eigenständig
+
+Nichts weg lassen! Ansonsten ist es keine 4-Stufen-Methode
 
 ### Vorteil
 
@@ -273,62 +285,217 @@ Gut um in eine Beobachterrolle zu gehen (Early-Talent bestimmung)
 * Kontrolle von gelerntem aus der Vergangenheit
   * Differenzierung zur Präsentation: "Sag mal, was haben wir letzte Woche so gemacht?" deutlich besser als selber zusammenzufassen. ("Aktivierung")
 
-## 7
+## Fragend-Entwickelndes Lehr-Lern-Gespräch
+
+In den Büchern steht das meistens: "Fragend Entwickelnde Methode" oder "Lehr-Gespräch". "Lehrgespräch" = Schulestunde. "Fragend Entwickelnd" = Aufbauend
+
+Diese Formulierung beinhaltet das Aufbauen
 
 ### Ablauf
 
+S. 253
+
+* Einstieg
+  * Einleitende Fragen des Ausbilders
+  * Hauptsächlich offene Fragen, aber notfalls auch mal ne geschlossene Fragen
+* Gemeinsames erarbeiten
+  * Frage-Antwort-Sequenz zwischen Ausbilder und Auszubildenden
+* Zusammenfassung
+  * Reflexion des Lernprozesses
+  * Lernkontrolle
+
+* Eventuell muss wenn nichts vom Azubi kommt auf ein Präsentation umgeswitched zu werden. Sonst fühlt sich der Azubi doof
+
+Fragentypen   |  Beispiel / Erklärung | Typ
+---------------|--------------------- | ----
+Beurteilungsfragen | Was stellst du fest? | offen
+Kontrollfragen  | Kannst du mir das erklären? Welche ware wird wie verräumt? Worauf müssen wir achten? | offen
+Alternativfrage | Erdbeer oder Schokoladeneis? Geschlossene frage; Kaffemaschine sauber oder Müll raus bringen. Ich mach das eine, du das andere. Was willst du? | geschlossen
+Tatsachenfragen | Leuchtet die lampe? Ist der code deployed
+Retorische Frage | "Ach, du auch hier?" | lückenfüller
+Suggestivfrage | Gibt die antwort bereits vor. z.B. "sind sie nicht auch der Meinung, dass?", "Sie wissen doch das <falschaussage>" um Azubis aus der reserve zu locken | geschlossen
+Erkundungsfragen | Fragen die den Hintergrundinformationen ermitteln. "Was glaubst du?", "hast du ne idee?", "was stellst du dir vor?" | offen
+Entwicklungsfragen | d | offen
+
+
+"Aus einem schlechten Elektriker wird mal ein leitender angestellter"
+
 ### Vorteil
+
+* Förderung der Selbstständigkeit und des Selbstdenkprozesses
+* Motivation und Engagement
+* Kompetenz-Entwicklung
+* Wenig Aufwand, wenn man das Wissen bereits hat.
+  * Ggf. kann der Azubi das gefragt ja schon?
+  * Ggf. muss man sich Fragen überlegen die zu gut sind um zu einem gewissen Feinlernziel hin führen.
+* Extrem flexibel
 
 ### Nachteil
 
+* Zeitaufwendig (einzelbetreueung)
+* Ungleichmäßige beteiligung der Azubis (bei Gruppen)
+* Nicht passend für Visuelle oder haptische Lerntypen
+
 ### Sozielform
+
+Einzelgespräch oder Kleingruppen
+
+In Kleingruppen fördert es den Austauch und das gemeinsame Lernen
 
 ### Lernbereiche
 
+Kognitiv
+
+Je nach Thema auch affektiv
+
 ### Führungsstil
 
-## 8
+Kooperativ
+
+### Anwendungsgebiet
+
+* Blockaden lösen
+* Startpunkt für ein Thema (gefolgt von clustern der Ideen, ergebnisse durchgehen etc.)
+
+## Lernauftrag / Mündlich begleitender Lernauftrag
+
+Je nach adressat entweder das eine oder das andere.
 
 ### Ablauf
 
+Mündlich gegleiteter Lernauftrag | beide | Lernauftrag 
+---------------------------------|-------|----------
+Ausbilder ist immer anwesend | SMARTe Ziele | Ausbilder bietet unterstützung
+
 ### Vorteil
+
+* Förderung des selbsständigen Arbeitens
+* Verknüpfung von Theorie und Praxis
+* Förderung von Schlüsselqualifikation
+  * Analysefähigkeit, Prozessdenken, Urteilsfähigkeit, Entschiedungsfähigkeit
 
 ### Nachteil
 
+* Gefahr des scheiterns / des überforderung (adressatenanalyse)
+* In der direkten betreuun betrueungsintensiv
+
 ### Sozielform
+
+Alleine
+Partner oder Teamarbeit
 
 ### Lernbereiche
 
+Kognitiver Lernbereich
+
+Affektiver Lernbereich kann je nach Lernauftrag angesprochen werden
+
 ### Führungsstil
 
-## 9
+Laissez-Fair
+
+Kooperativ
+
+## Leittext / Leitfaden
 
 ### Ablauf
 
+* Besteht idr aus
+  * Vorgaben ("Rezepte", "Bedienungsanleitung")
+  * Arbeitsplan (Visuell -> IKEA)
+  * Selbstkontrolle durch den Azubi
+    * ggf. Kontrollbogen (Definition des Endzustands)
+
 ### Vorteil
+
+* Abläufe (reihenfolge) lassen sich leicht sicherstellen und strukturieren
+* Selbstkontrolle anhand des Arbeitsplans
+* Bei mehreren Azubis kann der Plan von den Azubis erstellt werden
 
 ### Nachteil
 
+* Wenig selbstverantwortliches denken
+* wenig kritische reflektion
+
 ### Sozielform
+
+Einzeln oder in der Gruppe
 
 ### Lernbereiche
 
+Kognitiv
+Affektiv
+
 ### Führungsstil
 
-## 10
+Laissez-Fair (selbstständiges arbeiten)
+
+### Anwendungsgebiet
+
+Azubi muss einem prozess folgen können und etwas eigenständigkeit haben.
+
+Kleine Dinge: Kopierer, 1.Hilfe, Flucht & Rettungspläne, etc. die man sich aufgrund der Menge ggf. nicht merken kann.
+
+
+
+
+
+
+
+
+
+## Rollenspiel
 
 ### Ablauf
 
+* Einführung
+  * Setting "wir sind hier"
+* Rollenverteilung
+  * "Du bist der Kunde"
+* Vorbereitung
+  * Azubis können sich vorbereiten und argumente sammeln
+* Durchführung
+  * Rollen werden gespielt
+  * ggf. Videoanalyse
+  * Ausbilder kontrolliert
+* Nachbesprechen
+  * Positives zuerst etc.
+* Zusammenfassung
+  * Ausbilder fasst zusammen und dokumentiert
+  * Übeträgt auf reale situationen
+
+
+Der Ausbilder macht nicht mit, da er nie voll den "Bösen" spielen kann. Dann könnte er auch nicht beobachten. Man nimmt sich aus potentiellen Konfliktsituationen raus ("Die Ausbilderin war voll fies zu mir in dem Rollenspiel").
+
 ### Vorteil
+
+* Realitätsnah
+* Praktisches lernen
+* Feedback und Reflektion gibt es bereits im Rollenspiel. Es gibt die möglichkeit zu iterationen
+* Förderung von Softskills (Verhalten in Besprechungen, etc.)
+* Aktives Engagement (der Azubi muss aktiv sein)
+* Keine unmittelbare Konsequenzen (Fehler werden korrigiert, und z.B. kein Kunde bekommt das mit)
 
 ### Nachteil
 
+* Zeitaufwendig (erst muss geschaut werden wie die Gruppen verteilt werdn was gemacht wird)
+* Komfortzone muss verlassen werden. Azubis wollen das ggf. nicht
+* Ungleich Beteiligung der Azubis
+* Komplexität der Bewertung (Ausbilder können bestimmte Situationen schwer bewerten)
+
 ### Sozielform
+
+Kleingruppen, Partnerarbeit, Plenum
 
 ### Lernbereiche
 
+Affektiv
+
 ### Führungsstil
 
+Laissez-Faire (das Rollenspiel wird laufen gelassen)
+
+### Anwendungsgebiet
 
 
 
