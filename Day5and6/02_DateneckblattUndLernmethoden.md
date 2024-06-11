@@ -104,7 +104,7 @@ Oder:
 ### Nachteil
 
 * Kein Learning by doing (z.B. bei Sicherheitsaspekten)
-* Begrenzte Aufmerksamkeit
+* Begrenzte Aufmerksamkeit (keine "Aktivierung")
 * Sehr zeitaufwendig zu demonstrieren
 * Keine Wiederholung durch den Azubi möglich
 
@@ -182,10 +182,98 @@ Stufe | Stil
 * Sicherheitsrelevant oder Produktionsgleichheit (Wirtschaftlich kritisch)
 
 
+## Diskussion
 
+Diskussion = "Austausch von..."
+Es muss nicht zwingend ein einzelnes Ergebnis sein (sokrates style), sondern es kann auch ein "Agree to disgree" am Ende stehen.
 
+### Ablauf
 
-## 5
+* Gruppendiskussion zu einem vorgegebenen Thema
+* Ausbilder zieht sich zurück (und moderiert/setzt impulse nur falls nötig)
+
+### Vorteil
+
+* Anregung zum selstständigen Arbeiten
+* Lernen ruhe zu bewahren und sachlich zu bleiben
+* lernen kompetenzen zu entwickeln und steigern
+* Prägt sich besser ein als Frontaluntericht
+
+### Nachteil
+
+* Introvertierte Charactere ziehen sich ggf. zurück
+* Desintressierte nehmen nichts mit
+* Desintressierte haben am Gruppenergebnis Teil ohne was zu tun
+
+### Sozielform
+
+Gruppenarbeit
+
+### Lernbereiche
+
+Kognitiv
+Je nach Thema auch Affektiv
+
+### Führungsstil
+
+Laissez-Faire, ggf. Kooperativ wenn notwendig
+
+### Anwendungsgebiet
+
+Viele
+
+Kontroverse Themen
+
+Themen die die Azubis direkt betreffen (z.B. JAV gründen ja/nein?)
+
+Gut um in eine Beobachterrolle zu gehen (Early-Talent bestimmung)
+
+## Brainstorming
+
+"Gedanken aufwirbeln"
+
+### Ablauf
+
+* Moderator erläutert ein Problem oder eine Aufgabe
+* Teilnehmer nennen ideen die ggf. festgehalten werden
+* Ideen werden nicht bewertet
+* Kann zwischen 1min und 30min gestrecht werden
+
+### Vorteil
+
+* Viele Ideen kommen zusammen
+* Azubis trauen sich ausergewöhnliche Ideen zu sagen, gehen ggf aus siche heraus
+* Neue Assoziationen können entstehen, erweiterung des Horizonts
+* Eine Methode die relativ viel spaß macht
+* Eine Einfahe Methode, die spontan anwendbar ist (null Aufwand) "was fällt dir dazu ein".
+
+### Nachteil
+
+* Zu viele IDeen sind unübersichtlich (die quantität steht über der qualität)
+* Extrovertierte Azubis können introvertierte überdecken
+
+### Sozielform
+
+* Einzel, partner und Gruppenarbeit
+
+### Lernbereiche
+
+* Kognitiv
+* Affektiv (je nach Thema)
+
+### Führungsstil
+
+* Laissez-Faire
+* Kooperativ
+
+### Anwendungsgebiet
+
+* Blockaden lösen
+* Startpunkt für ein Thema (gefolgt von clustern der Ideen, ergebnisse durchgehen etc.)
+* Kontrolle von gelerntem aus der Vergangenheit
+  * Differenzierung zur Präsentation: "Sag mal, was haben wir letzte Woche so gemacht?" deutlich besser als selber zusammenzufassen. ("Aktivierung")
+
+## 7
 
 ### Ablauf
 
@@ -199,14 +287,33 @@ Stufe | Stil
 
 ### Führungsstil
 
-
-## 6
-
-## 7
-
 ## 8
 
+### Ablauf
+
+### Vorteil
+
+### Nachteil
+
+### Sozielform
+
+### Lernbereiche
+
+### Führungsstil
+
 ## 9
+
+### Ablauf
+
+### Vorteil
+
+### Nachteil
+
+### Sozielform
+
+### Lernbereiche
+
+### Führungsstil
 
 ## 10
 

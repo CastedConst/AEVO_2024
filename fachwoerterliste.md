@@ -6,7 +6,8 @@ Flexibilitätsklausel | Besagt, dass der Ausbildungsrahmenplan zeitlich verände
 Operationalisiert    | Klein gebrochen, auf das wesentliche konzentriert, unteilbar, spezifisch (Aka Feinlernziel), auf das Unternehmen bezogen. Beispiel: "Warenannahme" (Nasses paket? Kaputt?). Feinlernziel: Offene und Versteckte Mängel. Feinlernziel: Lieferschein abgleichen, Feinlernziel: Farbe etc. abgleichen. Feinlernziel: Sachgerechtes öffnen des Pakets (cutter?). Feinlernziel: Ins SAP eingeben, Feinlernziel: Mülltrennung, Feinlernziel: Einsortieren ins Lager (gekühlt?). "Wahrenannahme" ist nicht operationalisiert!
 Ausbildungsnachweis  | = Berichtsheft. Dokumentiert den Lernfortschrit
 Lernzielbereiche     | Siehe Tag 3
-Lernerfolgskontrolle | **Abgrenzung zur Lernerfolgssicherung???**
+Lernerfolgskontrolle | Es wird kontrolliert ob etwas tatsächlich gelernt wurde
+Lernerfolgssicherung | Durch üben wird das gelernte verfestigt
 Lernzieltaxonomie    | Siehe Tag 3
 SMARTe Ziele         | Specific, Measurable, Activating, Realistic, Terminated 
 Fachgerecht          | Schlagwort für die formulierung von affektiven Zielen. Analog zu dem was studierte "Proffessionsverständnis" nennen

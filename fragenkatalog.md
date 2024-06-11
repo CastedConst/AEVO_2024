@@ -1,5 +1,6 @@
 ## Möglicher Fragenkatalog
 
+
 > Dürfen Dinge aus dem Ausbildungsramenplan weg gelassen werden?
 > 
 > Nö!

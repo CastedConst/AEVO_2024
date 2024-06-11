@@ -62,6 +62,8 @@ In der umsetzung: Der impact muss klar sein!
 Motivation des Azubi "du darfst jetzt"
 
 
+  * Differenzierung zur Präsentation: "Sag mal, was haben wir letzte Woche so gemacht?" deutlich besser als selber zusammenzufassen. ("Aktivierung")
+
 
 * Lob
   * Ist immer **Spezifisch**
