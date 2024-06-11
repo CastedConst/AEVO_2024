@@ -30,13 +30,30 @@ S.479 im Ordner
 
 ## Überblick
 
-* Kurzvorträge / Präsentation
-* Demonstration
-* 4-Stufen Methode
-* Diskussion
-* Brainstorming
-* Fragend-Entwickelndes Lehr-Lern-Gespräch
+| Methode                                  | Führingsstil                  | Methodentyp                                |
+| ---------------------------------------- | ----------------------------- | ------------------------------------------ |
+| Kurzvorträge / Präsentation              | Autoritär, Ausbilderzentriert | Reaktionsmethoden                          |
+| Demonstration                            | Autoritär, Ausbilderzentriert | Demonstrationsmethode ( Reaktionsmethode ) |
+| 4-Stufen Methode / Modifizierte 4-S-M    | Mixed, Azubizentriert         | Demonstrationsmethode ( Reaktionsmethode ) |
+| Diskussion                               | Laissez-Faire, Azubizentriert | Verhaltensmethode ( Aktionsmethode )       |
+| Brainstorming / Mind Map / Kartenabfrage | Laissez-Faire, Azubizentriert | Verhaltensmethode ( Aktionsmethode )       |
+| Fragend-Entwickelndes Lehr-Lern-Gespräch | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| Mündlich begleiteter Lernauftrag         | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| Lernauftrag                              | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| **einen** Leittext                       | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| Projektmethode                           | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| Leittextmethode (anhand eines Projekts)  | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| Rollenspiel                              | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| Fallmethode                              | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| Planspiel                                | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
+| E-Learning                               | Laissez-Faire, Azubizentriert | Handlungsorientiert ( Aktionsmethode )     |
 
+
+Kartenabfrage = jeder schreibt 5 Dinge auf. Abschließend: Anpinnen o.ä., Wie verhält sich die Gruppe? Korrekte sortierung? Fehlerkultur? Diskussionen anstoßen bei falscher zuordnung? Ideensammlung für die zukünftigen Wochen?
+
+Rollenspiel / Fallmethode / Planspiel -> Geschützter Raum, komplett simuliert, keine Konsequenzen
+
+Fallmethode: Schau die die Mail an und bewerte was in der Vergangenheit alles schief gelaufen ist.
 
 ## Kurzvorträge / Präsentation
 
@@ -150,6 +167,8 @@ Viele
 
 Nichts weg lassen! Ansonsten ist es keine 4-Stufen-Methode
 
+Modifizierte Methode: Aufgabe in kleinere Schritte unterteilen (Beispiel: 40-Schritt Serviettenfalten)
+
 ### Vorteil
 
 * Zielstrebig
@@ -176,12 +195,12 @@ Kognitive
 
 ### Führungsstil
 
-Stufe | Stil 
-------|-------
-1     | Autoritär / Kooperativ
-2     | Autoritär
-3     | Kooperativ
-4     | Laissez-Faire
+| Stufe | Stil                   |
+| ----- | ---------------------- |
+| 1     | Autoritär / Kooperativ |
+| 2     | Autoritär              |
+| 3     | Kooperativ             |
+| 4     | Laissez-Faire          |
 
 **Punkt 3 ist die Lernkontrolle**, daher Kooperativ!
 
@@ -306,16 +325,16 @@ S. 253
 
 * Eventuell muss wenn nichts vom Azubi kommt auf ein Präsentation umgeswitched zu werden. Sonst fühlt sich der Azubi doof
 
-Fragentypen   |  Beispiel / Erklärung | Typ
----------------|--------------------- | ----
-Beurteilungsfragen | Was stellst du fest? | offen
-Kontrollfragen  | Kannst du mir das erklären? Welche ware wird wie verräumt? Worauf müssen wir achten? | offen
-Alternativfrage | Erdbeer oder Schokoladeneis? Geschlossene frage; Kaffemaschine sauber oder Müll raus bringen. Ich mach das eine, du das andere. Was willst du? | geschlossen
-Tatsachenfragen | Leuchtet die lampe? Ist der code deployed
-Retorische Frage | "Ach, du auch hier?" | lückenfüller
-Suggestivfrage | Gibt die antwort bereits vor. z.B. "sind sie nicht auch der Meinung, dass?", "Sie wissen doch das <falschaussage>" um Azubis aus der reserve zu locken | geschlossen
-Erkundungsfragen | Fragen die den Hintergrundinformationen ermitteln. "Was glaubst du?", "hast du ne idee?", "was stellst du dir vor?" | offen
-Entwicklungsfragen | d | offen
+| Fragentypen        | Beispiel / Erklärung                                                                                                                                   | Typ          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| Beurteilungsfragen | Was stellst du fest?                                                                                                                                   | offen        |
+| Kontrollfragen     | Kannst du mir das erklären? Welche ware wird wie verräumt? Worauf müssen wir achten?                                                                   | offen        |
+| Alternativfrage    | Erdbeer oder Schokoladeneis? Geschlossene frage; Kaffemaschine sauber oder Müll raus bringen. Ich mach das eine, du das andere. Was willst du?         | geschlossen  |
+| Tatsachenfragen    | Leuchtet die lampe? Ist der code deployed                                                                                                              |
+| Retorische Frage   | "Ach, du auch hier?"                                                                                                                                   | lückenfüller |
+| Suggestivfrage     | Gibt die antwort bereits vor. z.B. "sind sie nicht auch der Meinung, dass?", "Sie wissen doch das <falschaussage>" um Azubis aus der reserve zu locken | geschlossen  |
+| Erkundungsfragen   | Fragen die den Hintergrundinformationen ermitteln. "Was glaubst du?", "hast du ne idee?", "was stellst du dir vor?"                                    | offen        |
+| Entwicklungsfragen | d                                                                                                                                                      | offen        |
 
 
 "Aus einem schlechten Elektriker wird mal ein leitender angestellter"
@@ -363,9 +382,9 @@ Je nach adressat entweder das eine oder das andere.
 
 ### Ablauf
 
-Mündlich gegleiteter Lernauftrag | beide | Lernauftrag 
----------------------------------|-------|----------
-Ausbilder ist immer anwesend | SMARTe Ziele | Ausbilder bietet unterstützung
+| Mündlich gegleiteter Lernauftrag | beide        | Lernauftrag                    |
+| -------------------------------- | ------------ | ------------------------------ |
+| Ausbilder ist immer anwesend     | SMARTe Ziele | Ausbilder bietet unterstützung |
 
 ### Vorteil
 
@@ -439,11 +458,6 @@ Kleine Dinge: Kopierer, 1.Hilfe, Flucht & Rettungspläne, etc. die man sich aufg
 
 
 
-
-
-
-
-
 ## Rollenspiel
 
 ### Ablauf
@@ -496,18 +510,6 @@ Affektiv
 Laissez-Faire (das Rollenspiel wird laufen gelassen)
 
 ### Anwendungsgebiet
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -584,7 +586,4 @@ Azubis sollen alle vorbereitungen treffen um einen Stand am Weihnachtsmarkt habe
 
 Hauptsächlich Laissez-Faire
 (in kritischen bereichen auch anders)
-
-
-
 

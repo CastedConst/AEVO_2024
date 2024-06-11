@@ -74,6 +74,9 @@ ggf. kann man mal eine komplett bullshit-methode mit prüfung machen, um die Wer
 
 Haben sie kontrollfragen gestellt?
 
+was glaubst du denn wie könnten wir jetzt vor gehen?
+
+
 
 
 

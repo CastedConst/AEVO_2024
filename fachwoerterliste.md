@@ -20,4 +20,5 @@ Adressatenanalyse           | Siehe Tag 5
 Lernfähigkeit               | die 4 Lerntypen. Siehe Tag 5
 Lernbereitschaft            | Siehe Tag 5
 Lernhistorie                | Siehe Tag 5
+Ausbilderzentriert          | Führungsstil Autoritär
 
