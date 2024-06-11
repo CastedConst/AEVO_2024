@@ -54,7 +54,7 @@ Wein notwendig zur prüfung
 Was müssen wir vorbereiten `Brainstorming`
     Gläser, ("Das ist gut")
     Häppchen
-Worauf achten? Schonmal Gorgonzola gegessen? `Lehr-Lern-Gespräch`
+Worauf achten? Schonmal Gorgonzola gegessen? `Fragend-Entwickelndes Lehr-Lern-Gespräch`
     ddd
 Was Noch?
     Wein?
@@ -149,8 +149,7 @@ Qualttätsstufe?
 Ich habe ihnen Ettiketten abgelöst,
 Sie haben 2min Zeit,  was erkennen sie?
     Tragen sie was sie oben finden unten dazu ein.
-    `Lernerfolgskontrolle`
-    `Lernauftrag`
+    `Lernerfolgskontrolle` durch `Lernauftrag`
 
     Zeigt das Arbeitsblatt den Prüfern
 
@@ -189,3 +188,7 @@ nächsten mi treffen dann abzeichnen
 Lassen sie uns in den Weinkeller gehen, dass sie sicherer werden. Falls sie jemand frage dass sie einen bestimmten holen wollen. `Selbstbewusstsein`, `Purpose`, `Lernerfolgssicherung (üben)`, `Praxistransfer`
 
 Gehen wir in den Weinkeller? `Suggestivfrage`
+
+`Exit strategie`
+
+`Es kann ein Ausblick sein was gemacht wird (zum motivieren), aber nicht im Sinn von "wir machen jetzt ettiketten" (möh, why do we have to...)`
