@@ -21,8 +21,11 @@
   * [01_Adressatenanalyse](Day5and6/01_Adressatenanalyse.md) 
   * [02_DateneckblattUndLernmethoden](Day5and6/02_DateneckblattUndLernmethoden.md) 
   * [03_Prüfungssimulation](Day5and6/03_Prüfungssimulation.md) 
-
-
+* Tag 7
+  * [01_Beurteilungsfehler](Day7/01_Beurteilungsfehler.md)
+  * [02_gruppen](Day7/02_gruppen.md)
+* Tag 8
+  * [01_Stichworttest](Day8/01_Stichworttest.md)
 
 [fachwoerterliste](fachwoerterliste.md) 
 

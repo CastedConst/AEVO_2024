@@ -52,6 +52,7 @@ Rechtliches
 
 # Unsortiert
 
+> "Welche Kompetenz und welche schlüsselqualifikation haben sie in ihrer unterweisung gefördert"?
 
 > Was ist wenn das Unternehmen das nciht anbietet (z.B. aufgrund von outsourcing)?
 >
