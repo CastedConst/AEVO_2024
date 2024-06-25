@@ -21,4 +21,6 @@ Lernfähigkeit               | die 4 Lerntypen. Siehe Tag 5
 Lernbereitschaft            | Siehe Tag 5
 Lernhistorie                | Siehe Tag 5
 Ausbilderzentriert          | Führungsstil Autoritär
+"Situativer Führungsstil"   | In Abhängigkteit vom Reifegrad des Azubi (in dem Kontext), der Aufgabe, dem auszubildenden (generell)
+
 

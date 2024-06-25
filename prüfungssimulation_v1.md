@@ -11,11 +11,11 @@ Die Generalprobe ist am 24.06.2024
 
 Auszubildender im ersten Lehrjahr, 2. Monat
 
-Früherer zerspanungsmechaniker, mitte dreißig.
+Früherer zerspanungsmechaniker, anfang dreißig.
 
 Weitere Ausbildung als Fachinformatiker, da er aufgrund einer Verletzung an der Hand nicht mehr als Mechaniker arbeiten kann.
 
-Der Auszubildende ist sehr interessiert und engagiert. Er ist ein Visueller Lerntyp.
+Der Auszubildende ist sehr interessiert und engagiert. Er ist ein eher Visueller Lerntyp.
 
 
 # Ausbildungsziel
@@ -28,7 +28,9 @@ Vorgehensmodelle und -methoden sowie Entwicklungsumgebungen und -bibliotheken au
 
 ## Feinlernziel
 
-Der Auszubildende kennt das Vorgehensmodel "Kanban". Er kann es als agiles Vorgehensmodelle verorten und kennt die ihm zugrundelegende Philosophie.
+Der Auszubildende kennt die Rolle "Product Owner" aus dem vorgehensmodel "Scrum". Er kann die Rolle im Modell verorten und kennt die ihm zugrundelegende Philosophie.
+
+(V0 war ein konflikt aufgrund von der Zuweisung einer Aufgabe)
 
 ## Ablauf
 
@@ -38,9 +40,6 @@ Der Auszubildende kennt das Vorgehensmodel "Kanban". Er kann es als agiles Vorge
 - Wie gehts dir?
   - `Du hast mir ja erzählt, dass du Fußball schauen wolltest`
 
-
-Kognitiv - Simulation, mit wem?
-
 ### Kontext
 
 - Nachdem du im ersten Monat ja viele Schulungen hattest, hast du ja jetzt schon ein bisschen Abteilungs-Luft geschnuppert und kleine Programmieraufgaben übernommen.
@@ -48,71 +47,107 @@ Kognitiv - Simulation, mit wem?
   - Hat's gut funktioniert?
   - Hat's spaß gemacht?
 - Habe von Dirk deinem fachlichen Betreuer auch gehört, dass das sehr gut funktioniert hat, und du starkes analytisches Denken hast. Reskpekt
+- Erinnerst du dich daran, dass wir im Bewerbungsgespräch darüber gesprochen haben, dass programmieren nur ein kleiner teil des Berufs ist?
+- Mit dem Einblick den du jetzt bekommen hast würde ich dir gerne noch mehr Theoretisches Handwerkszeug geben, damit du nicht nur weißt wie etwas als Fachinformatiker gemacht wird, sonder auch **warum** es in der Form gemacht wird.
 
 ### Hinleitung
 
-#### Variante A
-
-- wir hatten im Bewerbungsgespräch darüber gesprochen dass programmieren ja nur ein kleiner teil ist
-
-
-
-- Hast du dich schonmal gefragt woher Dirk weiß, was ihr programmieren sollt?
-`Brainstorming`
-`Kohle kommt von extern. Purpose.`
-- Denkt er sich das selber aus?
-  - Früher vielleicht
-- Kundenbefragung
-- Herunter brechen der Anforderungen
-  - Die Firma als "Black Box"
-`Das zweistufige die Grundlage für das folgende` ???
-
-
-`Fragend-Entwickelndes Lehr-Lern-Gespräch`
-- Bis jetzt hat ja Dirk dir die Aufgaben immer direkt gegeben. Was könnte denn da daran schwierig sein?
-- Dir ist sicher aufgefallen, dass die anderen die aufgaben nicht direkt zugewiesen bekommen haben, oder?
-- Damit du auch ein volles mitglied des Teams bist...
-
-
-- ...will ich mit dir heute über Vorgehensmodelle bzw. Arbeitsweisen in der Entwicklung srprechen
-- Absolute Basics
-- Gut funktionierende Teams haben ne gute zusammenarbeit
-  - Let's go!
+- Hast du dich schonmal gefragt woher Dirk weiß, was ihr programmieren sollt? [`Brainstorming`] [`Kohle kommt von extern (Purpose)`]
+  - Denkt er sich das selber aus?
+  - Was könnten denn Quellen sein die wir verwenden können?
+    - "Innovation"
+      - Startup
+      - Selten
+    - Marktanalyse
+      - Konkurrenten-Analyse
+      - Kundenanforderungen
+      - Partner-Unternehmen
+    - Portfolio-Management
+- Start: Die Firma als "Black Box"
+  - Wo verortest du die einzelnen Punkte?
+  - Innovation:
+    - Kundenmeldungen?
+    - Experten f. deutsches Steuersystem?
+    - OAuth, CI/CD, ... [`outlook`]
 
 ### Hauptteil
 
-Früher:
-"Planungsabteilung"
+- Nun haben wir 20 verschiedene stellen aus denen Impulse kommen, wie bekommen wir  jetzt eine strukturierte Produkt Roadmap?
+  - Wenn du ne coole Idee für einen Button hast, meldest du dich bei der Abteilung?
+    - Selber einbauen!
+    - Also was dezentrales
+  - Glaubst du Klaus geht zu den Kunden und befragt die?
+    - Ne, also auch eine Zentrale Abteilung
+    - Gröbere Planung, müssen noch runter gebrochen werden.
+      - "Initiative", "Epic"
 
-Heute:
-Verteilte Teams
+`Fragend-Entwickelndes Lehr-Lern-Gespräch`
+- Nehmen wir mal an unsere Firma wäre im Metallbau. Stellt Straßenschilder her.
+  - Strategische diversifizierung:
+    - Wir bauen auch Kohle-Grills
+  - Potentielles Ergebnis der Markt-Analyse?
+    - Grillfläche soll 0,5qm sein
+    - Soll rund sein
+    - Unter 60€ selbstkosten
+  - Break down by PO
+    - [`Kartenabfrage`]
+    - Grillpfanne
+    - Rost
+    - Deckel
+    - Thermometer
+    - Warmhaltefläche
+    - Sicherheit! TÜV
+  - Deine Idee:
+    - Höhenverstellbar
+    - Besteckfach
+    - Hitzezonen
+    - Kamin-Funktion
+    - Deckel aus Einbahnstraße Schildern
+    - Elektirscher Wecker für Grillzeit
+
+
+
+
+
+- So, was muss Klaus jetzt machen? [`Brainstorming`]
+  - Redet viel mit verschiedenen stellen
+    - In der IT auch immer mit anderen Abteilungen, vor allem aber mit dem Programm Management
+  - Kontrolliert die strategische Ausrichtung des Produkts
+  - Kontrolliert die Produkt-Standards
+  - Hat nur eine begrenzte Menge an resourcen
+    - **PRIORISIERT**
+  - **Bricht runter**
+
+.
+
+
+
 
 Magisches Dreieck
 
 `Ich brauche was motorisches!` 
 
+`Vernetzen von Lerninhalten`
 
+`Lernerfolgskontrolle`
 
-`Brainstorming`
-`Aktiviert`, `Deligiert`
+`Lernerfolgssicherung`
 
-`Vernetzen von Lerninhalten` - Kundenanforderungen!
-
-
- `Lernerfolgskontrolle`
-
-
-  `Lernerfolgssicherung`
 `Praxistransfer`
 
 `Ergonomie`
 
 ### Schluss
 
+Jetzt weißt du auch warum, und das hilft dir bei unentschiedenheiten
+
 
 `Exit strategie`
 
 `Lernauftrag`
+
+
+
 
 
 
@@ -184,8 +219,6 @@ d
 Kontrolle ob etwas aufgenommen und erlernt wurde
 
 
-
-Wer/Wen (Adressatenanalyse),</br> wie (methodenwahl, lernerfolgskontroller), </br> was (Feinlernziel),</br> warum/wiseo/weshalb/wofür (Ausganssituation),</br> wann (Zeitpunkt in der Ausbildung, Zeitpunkt am Tag),</br> wo (lernort),</br> womit (Arbeitsmittel),</br> wie viele (sozialform des Lernens),</br> wie lange (Dauer der unterweisung)
 
 
 > "Welche Kompetenz und welche schlüsselqualifikation haben sie in ihrer unterweisung gefördert"?

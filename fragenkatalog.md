@@ -52,6 +52,10 @@ Rechtliches
 
 # Unsortiert
 
+> Welche überlegungen haben sie für die Vorbereitung einer Unterweisung?
+
+> Was ist didaktik?
+
 > "Welche Kompetenz und welche schlüsselqualifikation haben sie in ihrer unterweisung gefördert"?
 
 > Was ist wenn das Unternehmen das nciht anbietet (z.B. aufgrund von outsourcing)?
